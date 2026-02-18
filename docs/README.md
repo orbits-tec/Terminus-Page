@@ -1,18 +1,18 @@
 # Terminus
 
-Um emulador de terminal para macOS baseado na biblioteca [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm).
+Um emulador de terminal para macOS baseado em [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm).
 
 ## Requisitos
 
 - macOS 15 (Sequoia) ou superior
 
-## Atalhos
+## Atalhos de teclado
 
-| Atalho | Descrição                               |
-|:------:|-----------------------------------------|
-| `⌘D`   | Divide o terminal ativo verticalmente   |
-| `⌘⇧D`  | Divide o terminal ativo horizontalmente |
-| `⌘⌃W`  | Fecha o painel ativo                    |
+| Atalho | Descrição            |
+|:------:|----------------------|
+| `⌘D`   | Split vertical       |
+| `⌘⇧D`  | Split horizontal     |
+| `⌘⌃W`  | Fecha o painel ativo |
 
 ## Screenshots
 
@@ -23,5 +23,3 @@ Um emulador de terminal para macOS baseado na biblioteca [SwiftTerm](https://git
 ![image.png](images/image003.png)
 
 ![image.png](images/image004.png)
-
-![image.png](images/image005.png)
