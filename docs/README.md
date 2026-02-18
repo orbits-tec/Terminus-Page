@@ -4,13 +4,7 @@ Um emulador de terminal para macOS baseado na biblioteca [SwiftTerm](https://git
 
 ### Pre-requisitos
 
-- macOS 15 ou superior
-
-### Recursos
-
-- Multitab - execute múltiplas abas do terminal, incluindo sessões remotas (SSH).
-- Split terminal - use os atalhos `⌘D` e `⌘⇧D` para dividir uma sessão local ou remota (SSH).
-- Cadastro de Hosts SSH - cadastre Hosts SSH para fácil acesso.
+- macOS 15 (Sequoia) ou superior
 
 ### Atalhos
 
