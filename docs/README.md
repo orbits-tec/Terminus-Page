@@ -2,11 +2,11 @@
 
 Um emulador de terminal para macOS baseado na biblioteca [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm).
 
-### Pre-requisitos
+## Requisitos
 
 - macOS 15 (Sequoia) ou superior
 
-### Atalhos
+## Atalhos
 
 | Atalho | Descrição                               |
 |:------:|-----------------------------------------|
@@ -14,7 +14,7 @@ Um emulador de terminal para macOS baseado na biblioteca [SwiftTerm](https://git
 | `⌘⇧D`  | Divide o terminal ativo horizontalmente |
 | `⌘⌃W`  | Fecha o painel ativo                    |
 
-### Screenshots
+## Screenshots
 
 ![image.png](images/image001.png)
 
