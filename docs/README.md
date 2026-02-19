@@ -8,11 +8,11 @@ Um emulador de terminal para macOS baseado em [SwiftTerm](https://github.com/mig
 
 ## Atalhos de teclado
 
-| Atalho | Descrição            |
-|:------:|----------------------|
-| `⌘D`   | Split vertical       |
-| `⌘⇧D`  | Split horizontal     |
-| `⌘⌃W`  | Fecha o painel ativo |
+| Atalho                   | Descrição            |
+|:------------------------:|----------------------|
+| `Command + D`            | Split vertical       |
+| `Command + Shift + D`    | Split horizontal     |
+| `Command + Control + D`  | Fecha o painel ativo |
 
 ## Screenshots
 
