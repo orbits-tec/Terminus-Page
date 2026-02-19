@@ -19,7 +19,3 @@ Um emulador de terminal para macOS baseado em [SwiftTerm](https://github.com/mig
 ![image.png](images/image001.png)
 
 ![image.png](images/image002.png)
-
-![image.png](images/image003.png)
-
-![image.png](images/image004.png)
