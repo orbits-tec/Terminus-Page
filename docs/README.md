@@ -12,7 +12,7 @@ Um emulador de terminal para macOS baseado em [SwiftTerm](https://github.com/mig
 |:------------------------:|----------------------|
 | `Command + D`            | Split vertical       |
 | `Command + Shift + D`    | Split horizontal     |
-| `Command + Control + D`  | Fecha o painel ativo |
+| `Command + Control + W`  | Fecha o painel ativo |
 
 ## Screenshots
 
