@@ -1,3 +1,3 @@
 # Terminus
 
-- [Docs](https://orbits-tec.github.io/Terminus/)
+- [Docs](https://terminus.orbits.tec.br/)
